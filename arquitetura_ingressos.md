@@ -1,7 +1,7 @@
 
-# 🎸 Arquitetura de Venda de Ingressos - Rock in Rio
+#  Arquitetura de Venda de Ingressos - Rock in Rio
 
-## 📊 Diagrama SQL-like
+##  Diagrama SQL-like
 
 ```sql
 USUARIO 
@@ -20,6 +20,6 @@ BANCO_INGRESSOS -> CONFIRMACAO_INGRESSO
 CONFIRMACAO_INGRESSO -> ENVIO_USUARIO
 ```
 
-## 🖼️ Diagrama Ilustrado
+##  Diagrama Ilustrado
 
 ![Diagrama de Arquitetura](./arquitetura_ingressos.png)

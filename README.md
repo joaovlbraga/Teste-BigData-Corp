@@ -1,10 +1,10 @@
-# 🚀 Teste Técnico - BigData Corp
+#  Teste Técnico - BigData Corp
 
 Bem-vindo(a)! Este repositório contém os desafios e documentos desenvolvidos como parte de um teste técnico para a **BigData Corp**.
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 .
@@ -18,9 +18,9 @@ Bem-vindo(a)! Este repositório contém os desafios e documentos desenvolvidos c
 
 ---
 
-## 📌 Sobre os Arquivos
+##  Sobre os Arquivos
 
-### 🧠 Desafios em Python
+###  Desafios em Python
 
 - `Array_Challenge.py`  
   Desafio focado em manipulação e análise de arrays.
@@ -31,7 +31,7 @@ Bem-vindo(a)! Este repositório contém os desafios e documentos desenvolvidos c
 - `Searching_Challenge.py`  
   Algoritmo para busca em coleções de dados.
 
-### 📝 Documentação
+###  Documentação
 
 - `arquitetura_ingressos.md`  
   Proposta arquitetural para um sistema de venda de ingressos.
@@ -50,7 +50,7 @@ Bem-vindo(a)! Este repositório contém os desafios e documentos desenvolvidos c
 ### Executando no terminal
 
 ```bash
-python nome_do_script.py
+python palindrome.py
 ```
 
 **Exemplo:**
